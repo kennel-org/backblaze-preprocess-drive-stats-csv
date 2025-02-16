@@ -22,3 +22,8 @@ You can install these packages using the following command in R:
 
 ```r
 install.packages(c("RMariaDB", "tictoc", "stringr", "purrr", "dplyr", "lubridate", "tidyverse"))
+```
+
+## License
+
+This project is licensed under the MIT License.
